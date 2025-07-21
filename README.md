@@ -1,6 +1,14 @@
 # rtl8723be_wifi
 WiFi fix for the Realtek rtl8723be Wireless card in ubuntu
 
+## IMPORTANT
+
+If bluetooth is still not working properly, **turn on both bluetooth AND wifi**
+
+Problem solved
+
+---------------------------
+
 # ABOUT
 
 For linux users , Realtek rtl8723be wireless card doesn't work. It either disconnects automatically after a 15-30 minutes or doesn't show WiFi Hotspots beyond 4-5 feet.
